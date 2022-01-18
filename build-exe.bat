@@ -1,1 +1,1 @@
-pyinstaller --onefile --noconsole --icon="wing.ico" main.py
+pyinstaller --onefile --noconsole --icon="wing.ico" wing.py
